@@ -1,1 +1,3 @@
-# python code
+ #include<stdio.h>
+ void main()
+{
